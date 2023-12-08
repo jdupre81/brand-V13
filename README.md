@@ -1,5 +1,5 @@
 Link to the page
-https://github.com/jdupre81/brand-V13
+https://jdupre81.github.io/brand-V13/
 
 # [Start Bootstrap](http://startbootstrap.com/) - [Agency](http://startbootstrap.com/template-overviews/agency/)
 
